@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+
+.first-div{
+    border: 5px solid #8d8e94;
+    padding: 50px;
+}
+
+.first-table{
+color: white;
+border: 3px solid #5a6163;
+border-radius: 30px;
+padding: 10px;
+}
+
+.first-table td{
+    text-align: center;
+    color:  #e01b21;
+}
+
+.date{
+    color: #aabdc1;
+    font-size: 50px;
+}
+
+.first-num{
+    font-size: 150px;
+    box-shadow: 0 0 0 1px #5a6163;
+    border-radius: 10px;
+}
+
+.second-num{
+    box-shadow: 0 0 0 1px #5a6163;
+    border-radius: 10px;
+}
+
+.second-num td{
+    font-size: 150px;
+   
+}
+.hour{
+    color: #aabdc1;
+    font-size: 50px;
+}
+
+.days{
+    font-size: 30px;
+}
+
+.ampm div{
+    width: 60px;
+    height: 60px;
+    border: 2px solid #fff;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.ampm p{
+    color: #fff;
+}
+.ampm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dilnavaz{
+    font-size: 35px;
+    color: white;
+    font-family: "papyrus";
+}
+#AM{
+    font-size: 25px;
+    
+}
