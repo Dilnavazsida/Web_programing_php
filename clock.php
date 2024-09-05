@@ -17,7 +17,7 @@
         <tr class="first-num">
             <td colspan="2">05</td>
             <td colspan="4">08</td>
-            <td colspan="3">24</td>
+            <td colspan="3">2024</td>
         </tr>
 
         <tr class="hour">
